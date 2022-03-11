@@ -72,9 +72,9 @@ body a:hover{
 
 .photo img{
     float: left;
-    margin-right: 100px;
     height: 200px;
     width: 200px;
+    margin-top: 40px;
     border-radius: 1000px;
 }
 
@@ -85,5 +85,6 @@ body a:hover{
 
 .presentation{
     padding: 5%;
+    margin-left: 15%;
     text-align: justify;
 }
