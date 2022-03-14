@@ -1,0 +1,30 @@
+:root{
+    --black: #141414;
+    --gray: #2c2c2c;
+}
+
+
+#about{
+    color: white;
+    background-color: var(--black);
+    padding: 3%;
+}
+
+.photo img{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    border-radius: 1000px;
+}
+
+#about h3{
+    font-size: 30px;
+    text-align: center;
+}
+
+.presentation{
+    padding: 5%;
+    margin-left: 15%;
+    text-align: justify;
+}
