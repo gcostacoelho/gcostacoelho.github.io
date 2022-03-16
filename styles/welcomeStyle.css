@@ -3,20 +3,6 @@
     --gray: #2c2c2c;
 }
 
-#top_bar{
-    color: white;
-    background-color: var(--black);
-    padding: 1%;
-    border: none;
-    position: fixed;
-    top: 0%;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-}
-
 #welcome{
     color: white;
     padding: 20%;

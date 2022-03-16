@@ -34,9 +34,12 @@
 .link{
     max-width: max-content;
     display: inline-block;
+    margin-bottom: 10px;
 }
 
 .about-proj{
+    position: absolute;
+    padding: 5%;
     display: inline-block;
     text-align: justify;
 }
