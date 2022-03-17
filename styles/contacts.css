@@ -1,0 +1,15 @@
+:root{
+    --black: #141414;
+    --gray: #2c2c2c;
+    --dimGrey:#4f4f4f;
+
+}
+
+#contact{
+    background-color: var(--dimGrey);
+    padding: 3%;
+}
+
+#contact h3{
+    font-size: 30px;
+}

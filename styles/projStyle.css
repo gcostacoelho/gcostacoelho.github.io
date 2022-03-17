@@ -38,6 +38,7 @@
 }
 
 .about-proj{
+    max-width: max-content;
     position: absolute;
     padding: 5%;
     display: inline-block;
