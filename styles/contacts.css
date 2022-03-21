@@ -14,7 +14,22 @@
     font-size: 30px;
 }
 
-.linkedIn ion-icon {
+#contact ion-icon{
+    display: inline-block;
+    font-size: 25px; 
+    margin-top: 15px;
+}
+
+.tel{
+    align-content: center;
+}
+
+.tel p{
+    display: inline-block;
+    align-items: center;
+}
+
+#contact .linkedIn ion-icon {
     margin-top: 10px;
     font-size: 45px;
 }
